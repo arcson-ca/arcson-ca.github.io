@@ -46,8 +46,6 @@
     <!-- Contact -->
     <section id="contact" class="py-24 bg-zinc-900">
         <div class="max-w-6xl mx-auto px-6 text-center">
-            <h2 class="text-5xl font-bold tracking-tight mb-6">Ready to build something?</h2>
-            <p class="text-xl text-zinc-400 mb-12">Drop us a line — we reply fast.</p>
             <a href="mailto:peter@arcson.ca" class="inline-flex items-center gap-3 px-10 py-5 bg-blue-600 hover:bg-blue-500 rounded-3xl text-xl font-semibold transition">
                 peter@arcson.ca <i class="fas fa-arrow-right"></i>
             </a>
