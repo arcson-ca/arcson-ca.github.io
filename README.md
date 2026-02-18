@@ -18,7 +18,7 @@
         <div class="max-w-6xl mx-auto px-6 py-5 flex items-center justify-between">
             <div class="flex items-center gap-3">
                 <div class="w-9 h-9 bg-gradient-to-br from-blue-600 to-indigo-600 rounded-2xl flex items-center justify-center text-white font-bold text-2xl">A</div>
-                <span class="text-2xl font-semibold tracking-tighter">Arcson</span>
+                <span class="text-2xl font-semibold tracking-tighter">Arcson.ca</span>
             </div>
             <button onclick="toggleTheme()" class="p-3 rounded-xl hover:bg-zinc-800 transition">
                 <i class="fas fa-moon text-xl" id="theme-icon"></i>
@@ -31,8 +31,8 @@
         <div class="max-w-6xl mx-auto px-6">
             <div class="grid md:grid-cols-2 gap-16 items-center">
                 <div>
-                    <h2 class="text-5xl font-bold tracking-tight mb-8">Arcson Canada is a work from Peter Watkins a sole proprietor in Victoria BC.</h2>
-                    <p class="text-lg text-zinc-400 leading-relaxed">Sharing solutions I've built that may have value for others.</p>
+                    <h2 class="text-5xl font-bold tracking-tight mb-8">Arcson.ca is a work from Peter Watkins a sole proprietor in Victoria BC.</h2>
+                    <p class="text-lg text-zinc-400 leading-relaxed">-- site under construction --</p>
                 </div>
             </div>
         </div>
