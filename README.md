@@ -22,8 +22,6 @@
             </div>
             <div class="hidden md:flex gap-8 text-sm font-medium">
                 <a href="#about" class="hover:text-white transition">About</a>
-                <a href="#services" class="hover:text-white transition">Services</a>
-                <a href="#projects" class="hover:text-white transition">Projects</a>
                 <a href="#contact" class="hover:text-white transition">Contact</a>
             </div>
             <button onclick="toggleTheme()" class="p-3 rounded-xl hover:bg-zinc-800 transition">
@@ -31,20 +29,6 @@
             </button>
         </div>
     </nav>
-
-    <!-- Hero -->
-    <section class="hero-bg min-h-screen flex items-center pt-20">
-        <div class="max-w-6xl mx-auto px-6 text-center">
-            <h1 class="text-6xl md:text-7xl font-bold tracking-tighter mb-6">We build the future.</h1>
-            <p class="text-2xl text-zinc-400 max-w-2xl mx-auto mb-12">Clean code. Reliable systems. Canadian-made.</p>
-            <div class="flex flex-col sm:flex-row gap-4 justify-center">
-                <a href="#contact" class="px-10 py-4 bg-white text-zinc-950 font-semibold rounded-2xl hover:bg-zinc-100 transition text-lg">Let's talk</a>
-                <a href="https://github.com/arcson-ca" target="_blank" class="px-10 py-4 border border-white/30 font-semibold rounded-2xl hover:bg-white/10 transition text-lg flex items-center justify-center gap-3">
-                    <i class="fab fa-github"></i> GitHub
-                </a>
-            </div>
-        </div>
-    </section>
 
     <!-- About -->
     <section id="about" class="py-24 bg-zinc-900">
