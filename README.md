@@ -20,10 +20,6 @@
                 <div class="w-9 h-9 bg-gradient-to-br from-blue-600 to-indigo-600 rounded-2xl flex items-center justify-center text-white font-bold text-2xl">A</div>
                 <span class="text-2xl font-semibold tracking-tighter">Arcson</span>
             </div>
-            <div class="hidden md:flex gap-8 text-sm font-medium">
-                <a href="#about" class="hover:text-white transition">About</a>
-                <a href="#contact" class="hover:text-white transition">Contact</a>
-            </div>
             <button onclick="toggleTheme()" class="p-3 rounded-xl hover:bg-zinc-800 transition">
                 <i class="fas fa-moon text-xl" id="theme-icon"></i>
             </button>
@@ -39,16 +35,6 @@
                     <p class="text-lg text-zinc-400 leading-relaxed">Sharing solutions I've built that may have value for others.</p>
                 </div>
             </div>
-        </div>
-    </section>
-
-
-    <!-- Contact -->
-    <section id="contact" class="py-24 bg-zinc-900">
-        <div class="max-w-6xl mx-auto px-6 text-center">
-            <a href="mailto:peter@arcson.ca" class="inline-flex items-center gap-3 px-10 py-5 bg-blue-600 hover:bg-blue-500 rounded-3xl text-xl font-semibold transition">
-                peter@arcson.ca <i class="fas fa-arrow-right"></i>
-            </a>
         </div>
     </section>
 
