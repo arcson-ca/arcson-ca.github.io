@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Arcson — Building What's Next</title>
+    <title>Arcson Canadat</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <style>
@@ -51,58 +51,21 @@
         <div class="max-w-6xl mx-auto px-6">
             <div class="grid md:grid-cols-2 gap-16 items-center">
                 <div>
-                    <h2 class="text-5xl font-bold tracking-tight mb-8">Arcson is a Canadian technology studio.</h2>
-                    <p class="text-lg text-zinc-400 leading-relaxed">We create simple, powerful digital products and infrastructure that just work. From private photo libraries to custom web tools — everything we build is secure, fast, and built to last.</p>
-                </div>
-                <div class="bg-zinc-800/50 border border-zinc-700 rounded-3xl p-10 text-sm space-y-6">
-                    <div class="flex gap-4">
-                        <div class="text-blue-400"><i class="fas fa-shield-alt text-2xl"></i></div>
-                        <div>Privacy-first by default</div>
-                    </div>
-                    <div class="flex gap-4">
-                        <div class="text-blue-400"><i class="fas fa-bolt text-2xl"></i></div>
-                        <div>Lightning-fast Canadian hosting</div>
-                    </div>
-                    <div class="flex gap-4">
-                        <div class="text-blue-400"><i class="fas fa-code text-2xl"></i></div>
-                        <div>Open-source where it matters</div>
-                    </div>
+                    <h2 class="text-5xl font-bold tracking-tight mb-8">Arcson Canada is a work from Peter Watkins a sole proprietor in Victoria BC.</h2>
+                    <p class="text-lg text-zinc-400 leading-relaxed">Sharing solutions I've built that may have value for others.</p>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- Services / Projects -->
-    <section id="services" class="py-24">
-        <div class="max-w-6xl mx-auto px-6">
-            <h2 class="text-4xl font-bold text-center mb-16">What we're building</h2>
-            <div class="grid md:grid-cols-3 gap-8">
-                <div class="bg-zinc-900 border border-zinc-800 rounded-3xl p-8 hover:border-blue-500 transition group">
-                    <div class="text-blue-500 mb-6"><i class="fas fa-camera text-5xl"></i></div>
-                    <h3 class="text-2xl font-semibold mb-3">Private Photo Hosting</h3>
-                    <p class="text-zinc-400">Self-hosted Immich instances with Cloudflare Access protection.</p>
-                </div>
-                <div class="bg-zinc-900 border border-zinc-800 rounded-3xl p-8 hover:border-blue-500 transition group">
-                    <div class="text-blue-500 mb-6"><i class="fas fa-images text-5xl"></i></div>
-                    <h3 class="text-2xl font-semibold mb-3">Easy Albums</h3>
-                    <p class="text-zinc-400">Beautiful shared photo albums for friends & family.</p>
-                </div>
-                <div class="bg-zinc-900 border border-zinc-800 rounded-3xl p-8 hover:border-blue-500 transition group">
-                    <div class="text-blue-500 mb-6"><i class="fas fa-code text-5xl"></i></div>
-                    <h3 class="text-2xl font-semibold mb-3">Custom Tools</h3>
-                    <p class="text-zinc-400">Web apps, automation, and internal tools.</p>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <!-- Contact -->
     <section id="contact" class="py-24 bg-zinc-900">
         <div class="max-w-6xl mx-auto px-6 text-center">
             <h2 class="text-5xl font-bold tracking-tight mb-6">Ready to build something?</h2>
             <p class="text-xl text-zinc-400 mb-12">Drop us a line — we reply fast.</p>
-            <a href="mailto:hello@arcson.ca" class="inline-flex items-center gap-3 px-10 py-5 bg-blue-600 hover:bg-blue-500 rounded-3xl text-xl font-semibold transition">
-                hello@arcson.ca <i class="fas fa-arrow-right"></i>
+            <a href="mailto:peter@arcson.ca" class="inline-flex items-center gap-3 px-10 py-5 bg-blue-600 hover:bg-blue-500 rounded-3xl text-xl font-semibold transition">
+                peter@arcson.ca <i class="fas fa-arrow-right"></i>
             </a>
         </div>
     </section>
