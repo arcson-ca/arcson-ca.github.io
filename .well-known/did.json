@@ -12,7 +12,7 @@
       "publicKeyJwk": {
         "kty": "OKP",
         "crv": "Ed25519",
-        "x": "gIj0Xt9q4XCQaoebQ8kPBIawqM8ggpI3x8yvj-HdPQ8"
+        "x": "V3iitT7goo4KpI6qgNpPUM_0MQIUAuyhfFVsDgFzkX4"
       }
     }
   ],
@@ -29,5 +29,8 @@
       "serviceEndpoint": "https://attest.devcreds.dev/.well-known/devcreds-whois/arcson.ca",
       "attestationService": "did:web:attest.devcreds.dev"
     }
+  ],
+  "alsoKnownAs": [
+    "did:webvh:QmWXVGrEwiqXj9tHrzFHwRxs5sovcWP29cAabuyugEGZRC:attest.devcreds.dev:org:arcson.ca"
   ]
 }
